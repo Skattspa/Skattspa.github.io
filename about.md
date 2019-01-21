@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+Actually working
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Degree on Psychology.
+User experience and Interaction design autodidact.
 
 ### Contact me
 
